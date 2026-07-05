@@ -77,9 +77,6 @@ jupyter notebook
 - Advanced feature selection
 - Real-time prediction API
 
-##  Dashboard Preview
-<img width="698" height="407" alt="image" src="https://github.com/user-attachments/assets/81eaf68f-947f-43c9-8ce9-c663c3fc0fd0" />
-
 
 ## Author
 Hitarth Kansara
