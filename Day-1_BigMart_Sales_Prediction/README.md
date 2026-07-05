@@ -1,4 +1,4 @@
-# BigMart Sales Prediction 📊
+# BigMart Sales Prediction 
 
 ## Overview
 A machine learning project that predicts product sales for BigMart outlets using data preprocessing, exploratory data analysis, feature engineering, multiple regression models, and stacking ensemble learning.
@@ -77,7 +77,7 @@ jupyter notebook
 - Advanced feature selection
 - Real-time prediction API
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 <img width="698" height="407" alt="image" src="https://github.com/user-attachments/assets/81eaf68f-947f-43c9-8ce9-c663c3fc0fd0" />
 
 
