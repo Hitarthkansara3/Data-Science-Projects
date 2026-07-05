@@ -1,4 +1,4 @@
-# Customer Churn Prediction 📉
+# Customer Churn Prediction 
 
 ## Overview
 This project predicts whether a telecom customer is likely to churn (leave the company) or stay based on customer demographics, account information, subscribed services, and billing behavior.
@@ -142,8 +142,8 @@ Day-11_Customer_Churn_Prediction/
 ## App Prediction Output
 The app takes customer details as input and predicts:
 
-- ✅ Customer Will Stay
-- ⚠️ Customer is Likely to Churn
+-  Customer Will Stay
+-  Customer is Likely to Churn
 
 It also shows churn probability (if supported by model).
 
